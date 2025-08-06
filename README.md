@@ -1,7 +1,5 @@
 # EduConnect - Study Abroad Consultancy Platform
 
-![EduConnect](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=1200)
-
 EduConnect is a modern, AI-powered platform designed to help students navigate their international education journey. Built with React, TypeScript, and Tailwind CSS, it offers personalized university recommendations and comprehensive study-abroad guidance.
 
 ## 🌟 Features
@@ -44,6 +42,8 @@ npm run dev
 - **Type Checking**: TypeScript
 - **Linting**: ESLint
 - **Code Formatting**: Prettier
+
+Please visit our [EduConnect](https://edupath.netlify.app/) website.
 
 ## 🏗️ Project Structure
 
