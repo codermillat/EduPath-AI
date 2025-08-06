@@ -13,8 +13,6 @@ EduConnect is a modern, AI-powered platform designed to help students navigate t
 - **Comprehensive Resources**: Information about destinations, universities, and programs
 - **University Search**: Quick search functionality for universities, programs, and countries
 
-Please visit our [EduConnect](https://edupath.netlify.app/) website.
-
 ## 🚀 Quick Start
 
 ```bash
